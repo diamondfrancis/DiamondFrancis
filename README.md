@@ -11,5 +11,5 @@ I'm a Software Engineer, who currently works as a Freelancer at [SenseBend](http
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=diamondfrancis&show_icons=true&include_all_commits=true&hide_border=true" alt="Diamond's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamondfrancis&langs_count=8&layout=compact&hide_border=true" alt="Diamond's GitHub stats" /> |
+| <img align="center" <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamondfrancis&langs_count=8&layout=compact&hide_border=true" alt="Diamond's GitHub stats" /> |
 | ------------- | ------------- |
