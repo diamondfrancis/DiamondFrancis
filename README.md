@@ -44,16 +44,15 @@ I'm a passionate **Software Engineer** currently building at [ShuffleGuds](https
 
 ---
 
-Thanks for visiting my GitHub! I'm always open to collaboration, learning new things, and improving my skills. 😊
-
 ## Tools & Resources Used
 
-- **VSCode**: My go-to code editor for writing and debugging code. [More Info](https://code.visualstudio.com/)
-- **Git**: Used for version control. [More Info](https://git-scm.com/)
-- **GitHub**: For hosting and managing the project repository. [More Info](https://github.com/)
-- **npm**: The package manager for managing project dependencies. [More Info](https://www.npmjs.com/)
-- **React**: JavaScript framework for building the user interface. [More Info](https://reactjs.org/)
-- **Express.js**: Web framework for Node.js used to build the back-end server. [More Info](https://expressjs.com/)
-- **MongoDB**: NoSQL database used to store data. [More Info](https://www.mongodb.com/)
-- **Jest**: JavaScript testing framework. [More Info](https://jestjs.io/)
-- **Figma**: Design tool used to create wireframes and UI mockups. [More Info](https://www.figma.com/)
+- **VSCode**: ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **GitHub**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- **npm**: ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+- **React**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Heroku**: ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+- **MongoDB**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+Thanks for visiting my GitHub! I'm always open to collaboration, learning new things, and improving my skills. 😊
+
+
