@@ -39,7 +39,8 @@ I'm a passionate **Software Engineer** currently building at [ShuffleGuds](https
 ### 💫 **Let's Connect:**
 
 - [LinkedIn](https://www.linkedin.com/in/diamondfrancis)  
-- [Portfolio](https://diamondfrancis.co.uk) (Coming soon!)
+- [Design Portfolio](https://diamondfrancis.co.uk)
+- [Code Portfolio](https://diamondfrancis.online)
 
 ---
 
