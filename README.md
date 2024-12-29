@@ -1,6 +1,6 @@
 # Hi there, I'm Diamond! 👋
 
-I'm a passionate **Software Engineer** currently working as a Freelancer at [ShuffleGuds](https://shuffleguds.com).
+I'm a passionate **Software Engineer** currently building at [ShuffleGuds](https://shuffleguds.com).
 
 ---
 
