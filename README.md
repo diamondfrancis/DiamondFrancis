@@ -56,10 +56,3 @@ Hi there! I'm **Diamond**, a passionate Software Engineer currently building at 
 - **Design Portfolio:** [diamondfrancis.co.uk](https://diamondfrancis.co.uk)  
 - **Code Portfolio:** [diamondfrancis.online](https://diamondfrancis.online)
 
----
-
-## 💫 **Let’s Connect!**
-
-If you’re interested in collaborating on projects, discussing tech, or simply connecting with like-minded developers, feel free to reach out!
-
-
