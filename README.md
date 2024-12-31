@@ -1,4 +1,4 @@
-# Diamond Francis | Software Engineer 👩‍💻
+# Diamond Francis | Software Engineer
 
 Hi there! I'm **Diamond**, a passionate Software Engineer currently building at [ShuffleGuds](https://shuffleguds.com). I'm always eager to learn new technologies, collaborate on exciting projects, and contribute to the open-source community.
 
