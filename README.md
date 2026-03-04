@@ -51,7 +51,7 @@ Hi there! I'm **Diamond**, a passionate Software Engineer currently building at 
 
 ## 📬 **Contact Me**
 
-- **Email:** [hello@diamondfrancis.co.uk](mailto:hello@diamondfrancis.co.uk)  
+- **Email:** [hello@diamondfrancis.online](mailto:hello@diamondfrancis.online)  
 - **LinkedIn:** [diamondfrancis](https://www.linkedin.com/in/diamondfrancis)  
 - **Design Portfolio:** [diamondfrancis.co.uk](https://diamondfrancis.co.uk)  
 - **Code Portfolio:** [diamondfrancis.online](https://diamondfrancis.online)
